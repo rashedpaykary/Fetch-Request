@@ -41,7 +41,7 @@ function fetchRequest(url, callback) {
       });
     })
     .catch((error) => {
-      console.log("error");
+      alert("salam");
     });
 }
 
